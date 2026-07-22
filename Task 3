@@ -1,4 +1,4 @@
-public class GetingMaxNumber {
+public class GetingMaxElement {
     public static void main(String[] args) {
         int[] numbers = {10, 20, 3555, 40, 50};
 
